@@ -15,7 +15,7 @@ Excel 中的 Microsoft 365 Copilot 通过生成公式列建议、在图表和数
 
 1. 选择“确定”。 ****
 
-![首次打开 Excel 中 Copilot 面板的屏幕截图。](../media/copilot-pane-Excel.png)
+![首次打开 Excel 中 Copilot 面板的屏幕截图。](../media/copilot-pane-excel.png)
 
 ## 我们开始撰写
 
