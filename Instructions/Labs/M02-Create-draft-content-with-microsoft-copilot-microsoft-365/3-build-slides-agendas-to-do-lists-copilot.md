@@ -1,12 +1,14 @@
-PowerPoint 中的 Microsoft 365 Copilot 是一项由 AI 提供支持的功能，有助于创建、设计幻灯片并设置其格式。  可以输入你打算在演示文稿中传达的内容，Copilot 可以帮助你得出这些内容。 
+# 使用 PowerPoint 中的 Microsoft 365 Copilot 生成新的幻灯片、议程和待办事项列表
+
+PowerPoint 中的 Microsoft 365 Copilot 是一项由 AI 支持的功能，有助于创建、设计幻灯片并设置其格式。  可以输入你打算在演示文稿中传达的内容，Copilot 可以帮助你得出这些内容。
 
 Copilot 可以帮助你为空白幻灯片填充内容，让你朝着正确的方向编纂内容。 要开始在 PowerPoint 中使用 Copilot，可以通过功能区“**开始**”选项卡中的 Copilot 图标打开“**Copilot**”窗格。
 
-![PowerPoint 功能区中 Copilot 图标的屏幕截图。](../media/copilot-ribbon-powerpoint.png)
+![PowerPoint 功能区中 Copilot 图标的屏幕截图。](../media/create_copilot-ribbon-powerpoint.png)
 
 在 Copilot 窗格中，可以从 Word 文档或所需主题开始创建新演示文稿。 在此示例中，我们从基本请求开始创建有关主题的演示文稿，并添加其他元素以使提示更加可靠。
 
-![首次打开 PowerPoint 时 Copilot 面板的屏幕截图。](../media/copilot-pane-powerpoint.png)
+![首次打开 PowerPoint 时 Copilot 面板的屏幕截图。](../media/create_copilot-pane-powerpoint.png)
 
 > [!TIP]
 > 目前，PowerPoint 中的 Copilot 只能通过 Word 文档创建演示文稿。
@@ -26,17 +28,15 @@ Copilot 可以帮助你为空白幻灯片填充内容，让你朝着正确的方
 
 | 元素 | 示例 |
 | :------ | :------- |
-| 基本提示： <br>从**目标**开始 | **_新建 PowerPoint 演示文稿。_** |
-| 良好提示： <br>添加**上下文** | 添加**上下文**可帮助 Copilot 了解要创建哪种类型的文档以及文档的用途。<br><br>“_我们需要向潜在客户展示产品的功能和优势。_” |
-| 更好的提示： <br>指定**来源** | 添加**来源**可帮助 Copilot 了解在何处查找特定信息。<br><br>“_...使用 **/市场趋势报告 - 蛋白质奶昔.docx** 中的最新内容。_” |
-| 最佳提示： <br>设置明确的**预期** | 最后，添加**期望**可帮助 Copilot 了解你希望如何编写和格式化文档。<br><br>“_请包含产品概述、其主要功能和优势，以及与市场上同类产品的比较。请使用简单语言。_” |
+| **基本提示：** 从一个“**目标**”开始 | **_新建 PowerPoint 演示文稿。_** |
+| **良好提示：** 添加“**上下文**” | 添加**上下文**可帮助 Copilot 了解要创建哪种类型的文档以及文档的用途。 _“我们需要向潜在客户展示产品的功能和优势。”_ |
+| **更好的提示：** 指定“**来源**” | 添加**来源**可帮助 Copilot 了解在何处查找特定信息。 _“...使用 **/Market Trend Report- Protein shake.docx**中的最新内容。”_ |
+| **最佳提示：** 设置明确的“**预期**” | 最后，添加**期望**可帮助 Copilot 了解你希望如何编写和格式化文档。 _“请包含产品概述、其主要功能和优势，以及与市场上同类产品的比较。请使用简单语言。”_ |
 
 > [!NOTE]
 > **精心制作的提示：**
 >
-> _使用 **/市场趋势报告 - 蛋白质奶昔.docx** 中的最新内容新建 PowerPoint 演示文稿。我们需要向潜在客户展示产品的功能和优势。请包含产品的概述、其主要功能和优势，以及与市场上类似产品的比较。请使用简单语言。_
-
-[![在 PowerPoint 中使用 Copilot 针对示例文档精心制作的提示结果的屏幕截图。](../media/copilot-draft-results-powerpoint.png)](../media/copilot-draft-results-powerpoint.png#lightbox)
+> _使用 **/Market Trend Report- Protein shake.docx** 中的最新内容新建 PowerPoint 演示文稿。我们需要向潜在客户展示产品的功能和优势。请纳入产品的概述、其主要功能和优势，以及与市场上类似产品的比较。请使用简洁明了的语言。_
 
 设置好**目标**、**上下文**、**源**和**预期**后，Copilot 即拥有给出满意回复的一切信息。
 
@@ -62,4 +62,4 @@ Copilot 可以帮助你为空白幻灯片填充内容，让你朝着正确的方
 如果组织使用标准模板，请在使用 Copilot 创建演示文稿之前先从此文件开始。 从模板开始将让 Copilot 知道你希望保留演示文稿的主题和设计。 Copilot 将使用现有布局为你生成演示文稿。
 
 > [!IMPORTANT]
-> 拥有适用于 Microsoft 365 的 Copilot 许可证或 Copilot Pro 许可证的客户可使用此功能。 有关详细信息，请参阅[使用 Copilot 从文件创建演示文稿](https://support.microsoft.com/office/create-a-new-presentation-3222ee03-f5a4-4d27-8642-9c387ab4854d)。
+> 拥有 Microsoft 365 Copilot 许可证或 Copilot Pro 许可证的客户可使用此功能。 有关详细信息，请参阅[使用 Copilot 从文件创建演示文稿](https://support.microsoft.com/office/create-a-new-presentation-3222ee03-f5a4-4d27-8642-9c387ab4854d)。

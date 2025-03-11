@@ -1,11 +1,12 @@
+# 使用 Word 中的 Copilot 简化和提取关键信息
 
-要开始使用 Word 中的 Microsoft 365 Copilot，可以通过选择功能区的“**开始**”选项卡中的 Copilot 图标来打开“**Copilot**”窗格。 
+要开始使用 Word 中的 Microsoft 365 Copilot，可以通过选择功能区的“**开始**”选项卡中的 Copilot 图标来打开“**Copilot**”窗格。
 
-![Word 功能区中 Copilot 图标的屏幕截图。](../media/copilot-ribbon-word.png)
+![Word 功能区中 Copilot 图标的屏幕截图。](../media/summarize_copilot-ribbon-word.png)
 
 此功能有助于解答相关文档的各种问题（包括广泛问题或具体类问题）。 进行反复讨论以迭代和优化结果，获取有关文档内容的摘要或特定信息，或要求它生成你可以复制并插入到文档中的想法、表格或列表。
 
-![首次打开 Word 中 Copilot 面板的屏幕截图。](../media/copilot-pane-word.png)
+![首次打开 Word 中 Copilot 面板的屏幕截图。](../media/summarize_copilot-pane-word.png)
 
 在以下示例中，我们将 Word 中 Copilot 的基本提示转换为结构完善的上下文提示，以便按所需方式提供所需内容。
 
@@ -24,19 +25,17 @@
 
 | 元素 | 示例 |
 | :------ | :------- |
-| 基本提示： <br>从**目标**开始 | **总结此 Word 文档。** |
-| 良好提示： <br>添加**上下文** | 添加“**上下文**”有助于 Copilot 了解摘要的目的，并相应地定制回复。<br><br>“_并简要概述要点，以便在明天的销售会议上与我的团队讨论。_” |
-| 更好的提示： <br>指定**来源** | 添加**来源**可以帮助 Copilot 了解需要总结哪个文档或部分内容并提供更准确的响应。<br><br>“_…有关竞争分析的部分…_” |
-| 最佳提示： <br>设置明确的**预期** | 最后，添加**期望**可以帮助 Copilot 了解如何设置摘要的格式以及所需的详细程度。<br><br>“_请将摘要控制在 5 个要点并使用简单的语言。_” |
+| **基本提示：** 从一个“**目标**”开始 | **总结此 Word 文档。** |
+| **良好提示：** 添加“**上下文**” | 添加“**上下文**”有助于 Copilot 了解摘要的目的，并相应地定制回复。 _“简要概述了在明天的销售会议上与我的团队讨论的要点。”_ |
+| **更好的提示：** 指定“**来源**” | 添加**来源**可以帮助 Copilot 了解需要总结哪个文档或部分内容并提供更准确的响应。 _“…有关竞争分析的部分…”_ |
+| **最佳提示：** 设置明确的“**预期**” | 最后，添加**期望**可以帮助 Copilot 了解如何设置摘要的格式以及所需的详细程度。 _“请将摘要控制在 5 个要点并使用简洁明了的语言。”_ |
 
 > [!NOTE]
 > **精心制作的提示：**
 >
 > _总结此 Word 文档中有关竞争分析的部分，并简要概述要点，以便在明天的销售会议上与我的团队讨论。请将摘要控制在 5 个要点并使用简单的语言。_
 
-[![在 Word 中使用 Copilot 针对示例文档创建的提示结果的屏幕截图。](../media/copilot-summarize-results-word.png)](../media/copilot-summarize-results-word.png#lightbox)
-
-此提示包含所需的所有详细信息 - **目标**、**上下文**、**来源**和**期望**，因此 Copilot 可以给出你想要答案。 
+此提示包含所需的所有详细信息 - **目标**、**上下文**、**来源**和**期望**，因此 Copilot 可以给出你想要答案。
 
 ## 浏览更多
 
@@ -45,6 +44,6 @@
 你还能想到哪些方法将上下文、来源或期望添加到提示中？ 你能想到其他可用于生成所需响应的提示策略吗？
 
 > [!IMPORTANT]
-> 拥有适用于 Microsoft 365 的 Copilot 许可证或 Copilot Pro 许可证的客户可使用此功能。 有关详细信息，请参阅[欢迎使用 Word 中的 Copilot](https://support.microsoft.com/en-us/office/welcome-to-copilot-in-word-2135e85f-a467-463b-b2f0-c51a46d625d1)。
+> 拥有 Microsoft 365 Copilot 许可证或 Copilot Pro 许可证的客户可使用此功能。 有关详细信息，请参阅[欢迎使用 Word 中的 Copilot](https://support.microsoft.com/office/welcome-to-copilot-in-word-2135e85f-a467-463b-b2f0-c51a46d625d1)。
 
 在下一单元中，我们将了解如何为 PowerPoint 中的 Copilot 创建类似的提示。

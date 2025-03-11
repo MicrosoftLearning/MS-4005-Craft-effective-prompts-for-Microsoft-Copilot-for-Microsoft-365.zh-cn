@@ -1,3 +1,5 @@
+# 使用 Outlook 中的 Microsoft 365 Copilot 起草电子邮件、回复和会议议程
+
 Outlook 中的 Copilot 通过 AI 提供支持的帮助来让你更轻松地管理收件箱，帮助你快速编写电子邮件，并将长电子邮件讨论主题转换为简短摘要。 它将大型语言模型 (LLM) 的强大功能与 Outlook 数据相结合，帮助你在工作场所保持工作效率。 它可以汇总电子邮件讨论主题（也称为对话），可以从多个消息中提取关键点。
 
 > [!NOTE]
@@ -11,13 +13,13 @@ Outlook 中的 Copilot 可以帮助你快速起草电子邮件或回复现有对
 
 1. 从下拉菜单中选择 **“使用 Copilot 起草”**。
 
-    ![Outlook 工具栏中 Copilot 图标的屏幕截图。](../media/copilot-toolbar-outlook.png)
+    ![Outlook 工具栏中 Copilot 图标的屏幕截图。](../media/create_copilot-toolbar-outlook.png)
 
 1. 在 Copilot 框中，**键入提示**。
 
 1. 选择 **“生成”选项**以选择所需的长度和语气。
 
-    ![在 Outlook 中自定义 Copilot 中草稿的可用选项的屏幕截图。](../media/copilot-generate-options-outlook.png)
+    ![在 Outlook 中自定义 Copilot 中草稿的可用选项的屏幕截图。](../media/create_copilot-generate-options-outlook.png)
 
 1. 完成后，选择“生成”****。 Copilot 为你起草了一封邮件。
 
@@ -29,7 +31,7 @@ Outlook 中的 Copilot 可以帮助你快速起草电子邮件或回复现有对
 
 1. 根据需要编辑草稿，然后选择 **“发送”**。
 
-    ![Outlook 中 Copilot 生成的电子邮件草稿的屏幕截图。](../media/copilot-draft-results-outlook.png)
+    ![Outlook 中 Copilot 生成的电子邮件草稿的屏幕截图。](../media/create_copilot-draft-results-outlook.png)
 
 ## 我们开始撰写
 
@@ -42,17 +44,17 @@ Outlook 中的 Copilot 可以帮助你快速起草电子邮件或回复现有对
 
 | 元素 | 示例 |
 | :------ | :------- |
-| 基本提示： <br>从**目标**开始 | **_起草新电子邮件。_** |
-| 良好提示： <br>添加**上下文** | 添加**上下文**有助于 Copilot 理解电子邮件的内容以及受众是谁。<br><br>“_...向我的客户 Allan Deyoung 提供有关其支持票证的状态。_” |
-| 更好的提示： <br>指定**来源** | 添加**来源**可帮助 Copilot 了解在何处查找特定信息。<br><br>“_...查看我的电子邮件以获取有关票证 #1928374655 的最新信息。_” |
-| 最佳提示： <br>设置明确的**预期** | 最后，添加**期望**可帮助 Copilot 了解你希望如何编写和格式化文档。<br><br>“_该电子邮件应该专业且富有技巧，能让人产生心理共鸣。_” |
+| **基本提示：** 从一个“**目标**”开始 | **_起草新电子邮件。_** |
+| **良好提示：** 添加“**上下文**” | 添加**上下文**有助于 Copilot 理解电子邮件的内容以及受众是谁。 _“...向我的客户 Allan Deyoung 提供有关其支持票证的状态。”_ |
+| **更好的提示：** 指定“**来源**” | 添加**来源**可帮助 Copilot 了解在何处查找特定信息。 _“请参阅我的笔记中的最新更新：此问题已升级到第 2 层支持，预计在 48 小时内解决。”_ |
+| **最佳提示：** 设置明确的“**预期**” | 最后，添加**期望**可帮助 Copilot 了解你希望如何编写和格式化文档。 _“该电子邮件应该专业且富有技巧，能让人产生心理共鸣。”_ |
 
 > [!NOTE]
 > **精心制作的提示：**
 >
-> _起草一封新电子邮件发送给我的客户 Allan·Deyoung，向其提供支持票证的状态。查看我的电子邮件以获取有关票证 #1928374655 的最新信息。该电子邮件应该专业且富有技巧，能让人产生心理共鸣。_
+> _起草一封新电子邮件，发送给我的客户 Allan·Deyoung，向其提供支持票证的状态。请参阅我的笔记中的最新更新：此问题已升级到第 2 层支持，预计在 48 小时内解决。该电子邮件应该语气专业、有技术性，但是本着同理心撰写的。_
 
-在此提示中，Copilot 拥有给出可靠答案所需的一切信息，这要归功于此提示中的**目标**、**上下文**、**源**和**预期**。 
+在此提示中，Copilot 拥有给出可靠答案所需的一切信息，这要归功于此提示中的**目标**、**上下文**、**源**和**预期**。
 
 > [!IMPORTANT]
 > Outlook 中的 Copilot 目前仅支持工作或学校帐户，以及使用 outlook.com、hotmail.com、live.com 和 msn.com 电子邮件地址的 Microsoft 帐户。 任何使用第三方电子邮件提供商（例如 Gmail、Yahoo 或 iCloud）帐户的 Microsoft 帐户仍然可以使用 Outlook，但无法访问 Outlook 中的 Copilot 功能。 有关详细信息，请参阅[在 Outlook 中使用 Copilot 起草电子邮件](https://support.microsoft.com/office/draft-an-email-message-with-copilot-in-outlook-3eb1d053-89b8-491c-8a6e-746015238d9b)。

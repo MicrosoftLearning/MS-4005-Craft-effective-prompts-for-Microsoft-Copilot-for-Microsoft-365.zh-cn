@@ -1,11 +1,12 @@
+# 总结
 
 本模块介绍了 Microsoft 365 Copilot 及其在 Microsoft 365 应用中的转换功能，例如：
 
-- Word 中的 Copilot 可以重写文本，并将其转换为可编辑的表格。 
+- Word 中的 Copilot 可以重写文本，并将其转换为可编辑的表格。
 
-- PowerPoint 中的 Copilot 可帮助将幻灯片添加到演示文稿并使用图像增强幻灯片。 
+- PowerPoint 中的 Copilot 可帮助将幻灯片添加到演示文稿并使用图像增强幻灯片。
 
-- Excel 中的 Copilot 允许用户突出显示、排序和筛选表格，以专注于重要信息。 
+- Excel 中的 Copilot 允许用户突出显示、排序和筛选表格，以专注于重要信息。
 
 - Outlook 中的 Copilot 提供了有关通过 Copilot 指导提高电子邮件的语气、清晰度和读者情绪的建议。
 
