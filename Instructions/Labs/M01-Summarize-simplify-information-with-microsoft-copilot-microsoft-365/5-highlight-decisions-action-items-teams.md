@@ -1,3 +1,4 @@
+# 突出显示 Teams 会议的关键决策和行动项
 
 Microsoft Teams 中的 Copilot 可增强协作，帮助你充分利用 Teams 聊天和会议。 快速回顾、确定后续任务、创建议程并提出问题，以使会议更有效、更有针对性。 总结关键要点，查看遗漏内容，并在你加入的聊天线程中找出相关的关键人物。 所有这些都不会打断讨论的进程。 Copilot 在以下会议和呼叫中可用：
 
@@ -17,13 +18,13 @@ Teams 中的 Copilot 可以将其中的聊天内容和会议内容与 Teams 中�
 
 - 若让 Copilot 来分析，需要会议或通话的时间达到足够的长度。 如果会议没有听录足够长度的语音，Copilot 会提示，需要继续听录更多的信息，才能响应指令。
 
-在会议或通话期间，从会议控件中选择 **Copilot**。 如果尚未打开听录，系统会要求你将其打开。 
+在会议或通话期间，从会议控件中选择 **Copilot**。 如果尚未打开听录，系统会要求你将其打开。
 
-![Teams 会议中 Copilot 图标的屏幕截图。](../media/copilot-ribbon-teams.png)
+![Teams 会议中 Copilot 图标的屏幕截图。](../media/summarize_copilot-ribbon-teams.png)
 
 Copilot 出现在会议窗口右侧的面板中。 会议结束后，请在“**Teams 日历**”中选择该会议。 从那里选择会议详细信息中的“**回顾**”选项卡。 还可以从会议回顾访问 Copilot 面板，询问有关会议的问题。
 
-![首次打开 Teams 时 Copilot 聊天面板的屏幕截图。](../media/copilot-pane-teams.png)
+![首次打开 Teams 时 Copilot 聊天面板的屏幕截图。](../media/summarize_copilot-pane-teams.png)
 
 ## 我们开始撰写
 
@@ -36,10 +37,10 @@ Copilot 出现在会议窗口右侧的面板中。 会议结束后，请在“**
 
 | 元素 | 示例 |
 | :------ | :------- |
-| 基本提示： <br>从**目标**开始 | **回顾此 Teams 会议。** |
-| 良好提示： <br>添加**上下文** | 添加**上下文**可以帮助 Copilot 了解目的并相应地调整响应。<br><br>“_我迟到了，需要简要了解项目日程表。_” |
-| 更好的提示： <br>指定**来源** | 添加**来源**可以帮助 Copilot 了解需要总结哪个部分并提供更准确的响应。<br><br>“_Adele Vance 是否提出任何更改？_” |
-| 最佳提示： <br>设置明确的**预期** | 最后，添加**期望**可以帮助 Copilot 了解如何设置摘要的格式以及所需的详细程度。<br><br>“_在表中包括项目时间线，以及 Adele 提出的任何更改建议。_” |
+| **基本提示：** 从一个“**目标**”开始 | **回顾此 Teams 会议。** |
+| **良好提示：** 添加“**上下文**” | 添加**上下文**可以帮助 Copilot 了解目的并相应地调整响应。 _“我参会迟到了，需要一份项目日程表的简要概览。”_ |
+| **更好的提示：** 指定“**来源**” | 添加**来源**可以帮助 Copilot 了解需要总结哪个部分并提供更准确的响应。 _“Adele Vance 是否提出任何更改？”_ |
+| **最佳提示：** 设置明确的“**预期**” | 最后，添加**期望**可以帮助 Copilot 了解如何设置摘要的格式以及所需的详细程度。 _“在表中包括项目时间线，以及 Adele 提出的任何更改建议。”_ |
 
 > [!NOTE]
 > **精心制作的提示：**
@@ -59,4 +60,4 @@ Copilot 出现在会议窗口右侧的面板中。 会议结束后，请在“**
 - 汇总来自 [此人] 的未读电子邮件
 
 > [!IMPORTANT]
-> Teams 中的 Copilot 在 Windows、Mac、Web、Android 和 iOS 上可用。 必须拥有 Microsoft 365 和 Microsoft 365 Copilot 许可证才能访问 Teams 中的 Copilot。 有关如何在 Teams 会议中使用 Copilot 的更多场景，请参阅[在 Microsoft Teams 会议中开始使用 Copilot](https://support.microsoft.com/office/get-started-with-copilot-in-microsoft-teams-meetings-0bf9dd3c-96f7-44e2-8bb8-790bedf066b1)。 
+> Teams 中的 Copilot 在 Windows、Mac、Web、Android 和 iOS 上可用。 必须拥有 Microsoft 365 和 Microsoft 365 Copilot 许可证才能访问 Teams 中的 Copilot。 有关如何在 Teams 会议中使用 Copilot 的更多场景，请参阅[在 Microsoft Teams 会议中开始使用 Copilot](https://support.microsoft.com/office/get-started-with-copilot-in-microsoft-teams-meetings-0bf9dd3c-96f7-44e2-8bb8-790bedf066b1)。

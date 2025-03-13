@@ -1,6 +1,8 @@
+# 简介
+
 本模块介绍如何为 Microsoft 365 Copilot 制作有效的上下文提示，以便在 Microsoft 365 应用中**创建**信息。 如果你希望增强针对 Copilot 的提示技能，本模块将帮助你掌握一些知识和技巧，以帮助你通过 Microsoft 365 Copilot 生成准确、有用的提示结果。
 
-本模块重点介绍如何使用 Microsoft 365 Copilot 应用（如 **Word**、**PowerPoint**、**Teams**、**Outlook** 等）**起草**、**创建**和**生成**信息。 了解如何使用这些基本创建功能，以及如何制作包含生成所需结果的所有元素的有效提示。
+本模块重点介绍如何在不同的 Microsoft 365 应用（如 **Word**、**PowerPoint**、**Teams**、**Outlook** 等）中，使用 Microsoft 365 Copilot **起草**、**创建**和**生成**信息。 了解如何使用这些基本创建功能，以及如何制作包含生成所需结果的所有元素的有效提示。
 
 > [!IMPORTANT]
 > 本模块中涵盖的许多 Copilot 功能仅适用于具有 Microsoft 365 Copilot 许可证或 Copilot Pro 许可证的客户。 但是，可以对任何基于聊天的大型语言模型 (LLM) 使用用于制作更好提示的策略。
